@@ -1,6 +1,6 @@
 {
   "name": "get-trello-board",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retrieve a Trello board's information by ID or URL.",
   "author": "Luke Horvat",
   "license": "MIT",
