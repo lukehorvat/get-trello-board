@@ -1,6 +1,6 @@
 # get-trello-board [![NPM version](http://img.shields.io/npm/v/get-trello-board.svg?style=flat-square)](https://www.npmjs.org/package/get-trello-board)
 
-Retrieve a Trello board's information by ID or URL.
+Retrieve a [Trello](https://trello.com) board's information by ID or URL.
 
 ## Installation
 
@@ -12,4 +12,14 @@ $ npm install -g get-trello-board
 
 ## Usage
 
-TODO.
+Via the CLI, execute `get-trello-board` with the board ID or URL as the first argument:
+
+```bash
+$ get-trello-board https://trello.com/b/a4zJOe8/my-board
+```
+
+If the board is successfully found, its information will be logged for your convenience.
+
+## Disclaimer
+
+The tool is not officially affiliated with Trello in any way. Use at own risk.
