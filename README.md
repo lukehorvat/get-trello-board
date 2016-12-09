@@ -12,10 +12,10 @@ $ npm install -g get-trello-board
 
 ## Usage
 
-Via the CLI, execute `get-trello-board` with the board ID or URL as the first argument:
+Via the CLI, execute `get-trello-board` with the following arguments:
 
 ```bash
-$ get-trello-board https://trello.com/b/a4zJOe8/my-board
+$ get-trello-board KEY TOKEN ID/URL
 ```
 
 If the board is successfully found, its information will be logged for your convenience.
