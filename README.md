@@ -20,6 +20,9 @@ $ get-trello-board KEY TOKEN ID/URL
 
 If the board is successfully found, its information will be logged for your convenience.
 
-## Disclaimer
+## Related
 
-The tool is not officially affiliated with Trello in any way. Use at own risk.
+Check out my other Trello packages:
+
+- [create-trello-webhook](https://github.com/lukehorvat/create-trello-webhook)
+- [delete-trello-webhook](https://github.com/lukehorvat/delete-trello-webhook)
