@@ -26,3 +26,4 @@ Check out my other Trello packages:
 
 - [create-trello-webhook](https://github.com/lukehorvat/create-trello-webhook)
 - [delete-trello-webhook](https://github.com/lukehorvat/delete-trello-webhook)
+- [verify-trello-webhook](https://github.com/lukehorvat/verify-trello-webhook)
